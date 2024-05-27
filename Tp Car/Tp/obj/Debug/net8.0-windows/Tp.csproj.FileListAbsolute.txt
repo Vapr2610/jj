@@ -1,0 +1,17 @@
+E:\prog\vs\Tp\Tp\bin\Debug\net8.0-windows\Tp.exe
+E:\prog\vs\Tp\Tp\bin\Debug\net8.0-windows\Tp.deps.json
+E:\prog\vs\Tp\Tp\bin\Debug\net8.0-windows\Tp.runtimeconfig.json
+E:\prog\vs\Tp\Tp\bin\Debug\net8.0-windows\Tp.dll
+E:\prog\vs\Tp\Tp\bin\Debug\net8.0-windows\Tp.pdb
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.Form1.resources
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.Properties.Resources.resources
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.csproj.GenerateResource.cache
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.AssemblyInfoInputs.cache
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.AssemblyInfo.cs
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.csproj.CoreCompileInputs.cache
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.dll
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\refint\Tp.dll
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.pdb
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\Tp.genruntimeconfig.cache
+E:\prog\vs\Tp\Tp\obj\Debug\net8.0-windows\ref\Tp.dll
